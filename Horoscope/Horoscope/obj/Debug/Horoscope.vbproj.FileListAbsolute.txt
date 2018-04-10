@@ -1,0 +1,78 @@
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\bin\Debug\Horoscope.exe.config
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\bin\Debug\Horoscope.exe
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\bin\Debug\Horoscope.pdb
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\bin\Debug\Horoscope.xml
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\obj\Debug\Horoscope.frmMain.resources
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\obj\Debug\Horoscope.Resources.resources
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\obj\Debug\Horoscope.vbproj.GenerateResource.Cache
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\obj\Debug\Horoscope.exe
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\obj\Debug\Horoscope.xml
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\obj\Debug\Horoscope.pdb
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\obj\Debug\Horoscope.vbprojResolveAssemblyReference.cache
+C:\Users\SIlviya\Desktop\Horoscope\Horoscope\obj\Debug\Horoscope.frmGemini.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\bin\Debug\Horoscope.exe.config
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.exe
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.xml
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.pdb
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\bin\Debug\Horoscope.exe
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\bin\Debug\Horoscope.pdb
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\bin\Debug\Horoscope.xml
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.vbprojResolveAssemblyReference.cache
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmMain.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmGemini.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.Resources.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.vbproj.GenerateResource.Cache
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmAquarius.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmLibra.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmAries.resources
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\bin\Debug\Horoscope.exe.config
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.exe
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.xml
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.pdb
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\bin\Debug\Horoscope.exe
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\bin\Debug\Horoscope.pdb
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\bin\Debug\Horoscope.xml
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.vbprojResolveAssemblyReference.cache
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.frmMain.resources
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.frmGemini.resources
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.frmAquarius.resources
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.frmLibra.resources
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.frmAries.resources
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.Resources.resources
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.vbproj.GenerateResource.Cache
+C:\Users\18\Documents\Silviya Tacheva\Project\Horoscope\Horoscope\obj\Debug\Horoscope.frmLeo.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\bin\Debug\Horoscope.exe.config
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.exe
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.xml
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.pdb
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\bin\Debug\Horoscope.exe
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\bin\Debug\Horoscope.pdb
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\bin\Debug\Horoscope.xml
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.vbprojResolveAssemblyReference.cache
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmMain.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmGemini.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmAquarius.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmLibra.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmAries.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmLeo.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmSagittarius.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.Resources.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.vbproj.GenerateResource.Cache
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmCapricorn.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmTaurus.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmVirgo.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmCancer.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmScorpio.resources
+C:\Users\SIlviya\OneDrive\School\Horoscope\Horoscope\obj\Debug\Horoscope.frmPisces.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmVirgo.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmCancer.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmScorpio.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmPisces.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmLeo.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmSagittarius.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmCapricorn.resources
+C:\Users\SIlviya\Desktop\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.frmTaurus.resources
+C:\Users\SIlviya\OneDrive\Projects\New folder (5)\Horoscope\Horoscope\bin\Debug\Horoscope.exe.config
+C:\Users\SIlviya\OneDrive\Projects\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.exe
+C:\Users\SIlviya\OneDrive\Projects\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.xml
+C:\Users\SIlviya\OneDrive\Projects\New folder (5)\Horoscope\Horoscope\obj\Debug\Horoscope.pdb
